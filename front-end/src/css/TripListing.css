@@ -1,0 +1,21 @@
+.tripContent{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    width:20vw;
+    font-weight:bold;
+}
+.tripHeader {
+    margin-bottom: 2px; 
+}
+
+.tripPhoto {
+    border-radius: 1vw; 
+    height: 28vh; 
+    width: 18vw;
+}
+
+.tripDates {
+    text-align: center; 
+    margin-top: 1vh; 
+}

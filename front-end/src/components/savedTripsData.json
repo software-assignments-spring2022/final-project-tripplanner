@@ -1,0 +1,65 @@
+[
+  {
+    "id": "1",
+    "type": "trip",
+    "location": "Location #1",
+    "startDate": "xx-xx-xx", 
+    "endDate": "yy-yy-yy"
+  },
+  {
+    "id": "2",
+    "type": "trip",
+    "location": "Location #2",
+    "startDate": "xx-xx-xx", 
+    "endDate": "yy-yy-yy"
+  },
+  {
+    "id": "3",
+    "type": "trip",
+    "location": "Location #3",
+    "startDate": "xx-xx-xx", 
+    "endDate": "yy-yy-yy"
+  },
+  {
+    "id": "4",
+    "type": "trip",
+    "location": "Location #4",
+    "startDate": "xx-xx-xx", 
+    "endDate": "yy-yy-yy"
+  },
+  {
+    "id": "5",
+    "type": "trip",
+    "location": "Location #5",
+    "startDate": "xx-xx-xx", 
+    "endDate": "yy-yy-yy"
+  },
+  {
+    "id": "6",
+    "type": "trip",
+    "location": "Location #1",
+    "startDate": "xx-xx-xx", 
+    "endDate": "yy-yy-yy"
+  },
+  {
+    "id": "7",
+    "type": "trip",
+    "location": "Location #7",
+    "startDate": "xx-xx-xx", 
+    "endDate": "yy-yy-yy"
+  },
+  {
+    "id": "8",
+    "type": "trip",
+    "location": "Location #8",
+    "startDate": "xx-xx-xx", 
+    "endDate": "yy-yy-yy"
+  },
+  {
+    "id": "9",
+    "type": "trip",
+    "location": "Location #9",
+    "startDate": "xx-xx-xx", 
+    "endDate": "yy-yy-yy"
+  }
+]

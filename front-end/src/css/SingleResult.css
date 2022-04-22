@@ -1,0 +1,51 @@
+.hotelDisplay{
+    display: flex;
+    flex-direction: row;
+    margin-left: 5vw;
+    margin-right: 5vw;
+    margin-top: 5vh;
+}
+
+.leftContent {
+    display: flex; 
+    flex-direction: column; 
+    width: 45vw;
+}
+
+.singleName{
+    align-self: center;
+    margin-bottom:0;
+}
+.singleLocation {
+    font-style: italic; 
+}
+
+.singleTagline {
+    color: grey; 
+    font-style: italic; 
+    margin-bottom: 0; 
+}
+.rightContent{
+    display: flex;
+    flex-direction: column;
+}
+.hotelMap{
+    margin-top: 2vh;
+    height: 60vh;
+    width: 45vw;
+}
+.priceRating{
+    margin-bottom:0;
+}
+
+.links{
+    margin-top: 4vh;
+    display: flex;
+    font-size: 3vh;
+    justify-content: right;
+    font-weight: bold;
+    margin-right: 5vw;
+}
+.bookLink{
+    margin-right: 3vw;
+}

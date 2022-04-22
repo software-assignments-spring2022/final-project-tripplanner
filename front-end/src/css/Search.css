@@ -1,0 +1,36 @@
+.searchForm{
+    width: 100vw;
+    height: 8vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.searchButton {
+    border-radius: 20px; 
+    height: 7vh; 
+    width: 10vw; 
+    margin-left: 0.5vw;
+    font-size:2vh;
+    font-weight:bold;
+}
+
+.datePickers{
+    display: flex;
+    flex-direction: row;
+}
+
+
+.searchForm input {
+    border-radius: 20px; 
+    height: 6vh; 
+    width: 15vw;
+    margin-left: 0.5vw;
+    margin-right: 0.5vw;
+    font-size:2vh;
+    font-weight:bold;
+}
+
+
+

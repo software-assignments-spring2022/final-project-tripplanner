@@ -1,0 +1,42 @@
+
+.header{
+  background-color: transparent;
+  display: flex;
+  font-family:'Arial';
+  justify-content: space-between;
+  margin: 0; /* no margin on left or right */
+  text-align: center;
+  padding-bottom: 1vh;
+  border-bottom: 3px solid black;
+  background-color: white;
+}
+
+.header a {
+  color: grey;
+  font-size: 24px;
+  top: 15px;
+  margin-right: 5px;
+}
+.header a:link{
+  color:grey; 
+  text-decoration: none; 
+}
+.header a:hover{
+  color:white;
+  text-decoration: none; 
+}
+
+.headerImage{
+  height:50px;
+  width:175px;
+}
+#profileIcon{
+  height: 30px;
+  padding-top: 15px;
+  width: 30px;
+}
+
+.headerRight{
+  margin-top: 10px;  
+  margin-right: 50px; 
+}

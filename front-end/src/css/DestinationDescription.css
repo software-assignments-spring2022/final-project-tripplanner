@@ -1,0 +1,50 @@
+.view{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.content{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-left:10vw;
+    margin-right:3vw;
+}
+.description{
+    display:flex;
+    flex-direction: column; 
+    width:50%;
+    align-content:center;
+}
+.description h1{
+    font-size:4vh;
+}
+.descriptionContent{
+    font-weight: bold;
+    font-size:2.5vh;;
+}
+.title{
+    height: 7vh;
+    align-self: center;
+    margin-bottom:0;
+}
+.top5{
+    display:flex;
+    flex-direction: column;
+    width: 50%;
+    align-content: center;
+}
+.top5 h1{
+    font-size:4vh;
+    align-self: center;
+}
+.activities{
+    align-self:center;
+}
+.link{
+    margin-top:2vh;
+    width: 100%;
+    align-self: center;
+    font-size:4vh;
+    font-weight:bold;
+}

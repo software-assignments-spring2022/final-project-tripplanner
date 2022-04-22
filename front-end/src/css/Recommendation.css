@@ -1,0 +1,42 @@
+.activityImage {
+    border-radius: 15px; 
+    height: 20vh; 
+    width: 13vw; 
+}
+
+.activitySubHeader {
+    font-size: 1.2vw; 
+    font-weight: normal; 
+    margin: 2px; 
+    text-align: center; 
+    font-weight:bold;
+}
+
+.destinationSubHeader {
+    border:solid;
+    color: black; 
+    font-size: 30px; 
+    font-weight: bold; 
+    margin: 5px; 
+    text-align: left;
+}
+
+.recAct { 
+    margin-right: 30px; 
+}
+
+.recDestination {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.destImg{
+    height: 300px; 
+    width: 350px;  
+    border-radius: 15px; 
+}
+.destinationSubHeader{
+    align-content: center;
+    font-size: 2.8vh;
+    border:0;
+}
